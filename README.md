@@ -20,6 +20,9 @@ The modeling algorithms used were as follows
 * XG Boost Regression
 * Random Forest Regression
 * Neural Network Regression
+
+Final Model
+* Random Forest Regessor
 ## Deployment
 An app that is currently only able to run locally has been created for users to go out and figuree out what their cars value is or what they could possibly buy a vehicle for.
 All the required packages to run the app correctly are stored within the required folder in the main part of this repo. The app is stored in the app.py file.
