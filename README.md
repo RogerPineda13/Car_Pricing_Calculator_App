@@ -6,7 +6,7 @@ Wordsmith/Coder: Roger Pineda
 ## Overview
 The project here has sought out to go and predict the price of used and new cars from a dataset that had over four hundred thousand car listings from craigslist with the use of a variety of regression algorithms. Many features of the car were used to attempt to accurately predict the price.
 ## Business Problem
-
+Figuring out what to sell your car is something people don't know off the top of their head. With the sky rocketing prices many are looking to sell their vehicle at the right price. Knowing that price is tough. Vice versa when it comes to buying a car. You don't want to over pay for something that may lose value quickly. Therefore this model was created to aid those car buyers and sellers.
 ## Data Understanding
 The dataset is from Kaggle and it is currently over 1.5g of space and therefore too big to be pushed to GitHub. The link to the dataset will be at the bottom of this Read.ME
 ## Data Cleaning
