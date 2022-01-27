@@ -2,7 +2,7 @@
 
 # Capstone Project
 ## Used and New Car Price Predictor
-
+Wordsmith/Coder: Roger Pineda
 ## Overview
 
 ## Business Problem
@@ -14,3 +14,5 @@
 ## Modeling
 
 ## Deployment
+
+## Conclusions and Next Steps
