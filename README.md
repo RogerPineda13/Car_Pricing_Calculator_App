@@ -30,7 +30,7 @@ Final Model
 An app that is currently only able to run locally has been created for users to go out and figuree out what their cars value is or what they could possibly buy a vehicle for.
 All the required packages to run the app correctly are stored within the required folder in the main part of this repo. The app is stored in the app.py file.
 ## Conclusions and Next Steps
-The model isn’t performing well. With having an RSME of () it can either mean the model is projecting over the price therefore having the buyer spend way too much for a car or projecting the price lower and therefore having the seller miss out on possible monetary gains when they go to sell their car. 
+The model isn’t performing well. With having an RSME of 3724.54 it can either mean the model is projecting over the price therefore having the buyer spend way too much for a car or projecting the price lower and therefore having the seller miss out on possible monetary gains when they go to sell their car. 
 
 Next steps are to use find stronger regressors to use on the data and also to see if the removing of features can fine tune the model to see if it can be more accurate. As well grab far more computing power.
 
