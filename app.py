@@ -51,6 +51,7 @@ if run:
     input_data = pd.DataFrame(columns=X_test.columns)
     input_data = input_data.append(df, ignore_index=True)
     input_data = input_data.fillna(0)
+    st.write("The car is worth:")
     st.write(np.exp(test.predict(input_data)))
     
 
