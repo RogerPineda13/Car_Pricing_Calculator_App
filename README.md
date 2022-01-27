@@ -23,6 +23,9 @@ The modeling algorithms used were as follows
 
 Final Model
 * Random Forest Regessor
+
+![Screenshot 2022-01-27 010123](https://user-images.githubusercontent.com/92402366/151300955-8a29899e-7667-4c87-957d-4d828143a308.png)
+
 ## Deployment
 An app that is currently only able to run locally has been created for users to go out and figuree out what their cars value is or what they could possibly buy a vehicle for.
 All the required packages to run the app correctly are stored within the required folder in the main part of this repo. The app is stored in the app.py file.
