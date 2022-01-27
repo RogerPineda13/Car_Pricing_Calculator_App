@@ -8,9 +8,9 @@ The project here has sought out to go and predict the price of used and new cars
 ## Business Problem
 
 ## Data Understanding
-
+The dataset is from Kaggle and it is currently over 1.5g of space and therefore too big to be pushed to GitHub. The link to the dataset will be at the bottom of this Read.ME
 ## Data Cleaning
-
+The data started with four hundred thirty thousand car listings from craigslist and was saved in a 
 ## Modeling
 For the modeling portion of this repo you have to go into the modeling note book to see all the work and coding that was needed to properly predict the price of any vehicle.
 The modeling algorithms used were as follows
@@ -24,3 +24,7 @@ The modeling algorithms used were as follows
 An app that is currently only able to run locally has been created for users to go out and figuree out what their cars value is or what they could possibly buy a vehicle for.
 All the required packages to run the app correctly are stored within the required folder in the main part of this repo. The app is stored in the app.py file.
 ## Conclusions and Next Steps
+
+
+## Links
+https://www.kaggle.com/austinreese/craigslist-carstrucks-data
