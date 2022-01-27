@@ -4,7 +4,7 @@
 ## Used and New Car Price Predictor
 Wordsmith/Coder: Roger Pineda
 ## Overview
-
+The project here has sought out to go and predict the price of used and new cars from a dataset that had over four hundred thousand car listings from craigslist with the use of a variety of regression algorithms. Many features of the car were used to attempt to accurately predict the price.
 ## Business Problem
 
 ## Data Understanding
