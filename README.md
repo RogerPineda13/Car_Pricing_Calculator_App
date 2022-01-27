@@ -47,7 +47,7 @@ Presentation
 ├── Final_Notebook.ipynb
 ├── Modeling_Notebook.ipynb
 ├── ProcFile 
-├──  README.md
+├── README.md
 ├── app.py
 ├── [data]
 ├── required.txt 
