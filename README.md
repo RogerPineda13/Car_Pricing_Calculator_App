@@ -28,3 +28,4 @@ All the required packages to run the app correctly are stored within the require
 
 ## Links
 https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+https://www.jigsawacademy.com/popular-regression-algorithms-ml/#Neural-Network-Regression-
