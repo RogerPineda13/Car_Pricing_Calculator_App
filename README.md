@@ -12,7 +12,15 @@ The project here has sought out to go and predict the price of used and new cars
 ## Data Cleaning
 
 ## Modeling
-
+For the modeling portion of this repo you have to go into the modeling note book to see all the work and coding that was needed to properly predict the price of any vehicle.
+The modeling algorithms used were as follows
+* Linear Regression
+* Lasso Regression
+* Ridge Regression
+* XG Boost Regression
+* Random Forest Regression
+* Neural Network Regression
 ## Deployment
-
+An app that is currently only able to run locally has been created for users to go out and figuree out what their cars value is or what they could possibly buy a vehicle for.
+All the required packages to run the app correctly are stored within the required folder in the main part of this repo. The app is stored in the app.py file.
 ## Conclusions and Next Steps
