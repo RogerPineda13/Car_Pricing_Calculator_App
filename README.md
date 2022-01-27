@@ -40,3 +40,16 @@ Next steps are to use find stronger regressors to use on the data and also to se
 [Article on Regressors](https://www.jigsawacademy.com/popular-regression-algorithms-ml/#Neural-Network-Regression-)
 
 Presentation
+
+## Repository Structure
+```
+├── [gitignore]
+├── Final_Notebook.ipynb
+├── Modeling_Notebook.ipynb
+├── README.md
+├── app.py
+├── [data]
+├── required.txt 
+└── setup.sh
+ 
+```
