@@ -26,7 +26,7 @@ Final Model
 
 The Random Forest Regressor came to be the final model since it had the lowest RSME score out all the models used in this repo. When it comes to regression and predicting price the most important metric is RSME score be as low as possible.
 
-![Screenshot 2022-01-27 010123](https://user-images.githubusercontent.com/92402366/151300955-8a29899e-7667-4c87-957d-4d828143a308.png)
+![Screenshot 2022-01-28 031954](https://user-images.githubusercontent.com/92402366/151512554-bb406396-4274-4af4-9974-b5db1cc29efe.png)
 
 ## Deployment
 An app that is currently only able to run locally has been created for users to go out and figuree out what their cars value is or what they could possibly buy a vehicle for.
