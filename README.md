@@ -23,6 +23,7 @@ The modeling algorithms used were as follows
 
 Final Model
 * Random Forest Regessor
+The Random Forest Regressor came to be the final model since it had the lowest RSME score out all the models used in this repo. When it comes to regression and predicting price the most important metric is RSME score be as low as possible.
 
 ![Screenshot 2022-01-27 010123](https://user-images.githubusercontent.com/92402366/151300955-8a29899e-7667-4c87-957d-4d828143a308.png)
 
