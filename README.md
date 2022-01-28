@@ -41,7 +41,7 @@ Next steps are to use find stronger regressors to use on the data and also to se
 
 [Article on Regressors](https://www.jigsawacademy.com/popular-regression-algorithms-ml/#Neural-Network-Regression-)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1ZX5S9dTsJ1aSRdC5OE9DtDkJ_1eFpsibnA5C6TfXt40/edit?usp=sharing)
 
 ## Repository Structure
 ```
