@@ -46,6 +46,7 @@ Next steps are to use find stronger regressors to use on the data and also to se
 ## Repository Structure
 ```
 ├── [gitignore]
+├── Presentation.pdf
 ├── Final_Notebook.ipynb
 ├── Modeling_Notebook.ipynb
 ├── ProcFile 
