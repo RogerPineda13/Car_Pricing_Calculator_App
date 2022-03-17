@@ -34,7 +34,7 @@ All the required packages to run the app correctly are stored within the require
 ## Conclusions and Next Steps
 After many forms and attempts and clean this heavily mucky dataset from Kaggle it is come down that what was left over wasn't enough to allow the models to trainwell enough to acheive proper predictions. As seen in the predictions section of this notebook, the model isn't predicting well to new data. When given all the features in the datset it vastly underperforms. With the model having an RSME of 3724.54 it is way to high of a number in reference to the range of the values of the prices within the dataset. The model can either predict well over the price therefore having the buyer spend way too much for a car or way too low and having the seller lose out on profits. Currently the model needs more work and it is currently not in a position to be used by the public. 
 
-Next steps are to use find stronger regressors to use on the data and also to see if the removing of features can fine tune the model to see if it can be more accurate. As well grab far more computing power.
+Next steps are to use find stronger regressors to use on the data and also to see if the removing of features can fine tune the model to see if it can be more accurate. As well grab far more computing power as the local machine that was used was heavily limited.
 
 ## Links
 [Kaggle Dataset](https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
